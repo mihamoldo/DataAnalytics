@@ -1,3 +1,3 @@
 # DataAnalytics
 
-Includes snipets of Data Analytics projects
+Includes snipets of personal Data Analytics projects
